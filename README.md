@@ -1,7 +1,7 @@
 # Module 2 Challenge
 
 ## Deployed Link
-
+https://zserrano.github.io/portfolio/
 
 ## Screenshot of Deployed Website
 
