@@ -4,7 +4,7 @@
 https://zserrano.github.io/portfolio/
 
 ## Screenshot of Deployed Website
-
+![Image shows a version of a portfolio page](/assets/images/module2deployedapp.png)
 
 ## Description
 Created a portfolio site from scratch utilizing the acceptance criteria given in the Module 2 Challenge readme file. User will be able to click on pictures of deployed applications created by the portfolio owner to see those applications in action, as well as learn some general information about the owner.
